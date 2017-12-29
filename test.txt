@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-aaa
-=======
 aaatest1
->>>>>>> feature-update-file
